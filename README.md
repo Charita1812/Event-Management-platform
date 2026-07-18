@@ -193,7 +193,6 @@ DRAFT → PUBLISHED → ONGOING → COMPLETED
 
 > Some endpoint names may differ slightly depending on the final controller mappings.
 
-## Getting Started
 
 ### Prerequisites
 
